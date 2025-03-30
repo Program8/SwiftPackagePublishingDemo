@@ -11,4 +11,7 @@ public class MyCalculator {
     public func add(_ a: Int, _ b: Int) -> Int {
         return a + b
     }
+    public func multiply(_ a: Int, _ b: Int) -> Int {
+        return a * b
+    }
 }
